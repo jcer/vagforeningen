@@ -1,11 +1,6 @@
-# Projektinstruktioner - Nösunds Vägförening
+# Project Instructions
 
-## Dokumentation & Arbetsflöde
+All detailed project instructions, workflows, and context for agents (both human and AI) are maintained in:
+- [AGENTS.md](./AGENTS.md)
 
-### Valberedning
-- **Frågebatterier:** Ska hållas radikalt förenklade. Fokus på max 4 kärnfrågor:
-  1. Upplevelse av året/samarbetet.
-  2. Kandidatur/ambition.
-  3. Långsiktighet (hur många år till).
-  4. Namnförslag på nya kandidater.
-- **Intervjuloggar:** Ska vara personcentrerade med tydliga rubriker för varje individ. Detta underlättar löpande anteckningar under samtal.
+Please refer to that file for architectural decisions, coding standards, and specific workflows.

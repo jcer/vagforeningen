@@ -12,6 +12,15 @@ Detailed context and workflows for agents (human and AI) collaborating on this r
 
 ## Nomination Committee Workflow (Valberedning)
 
+### Dokumentation & Arbetsflöde
+- **Frågebatterier:** Ska hållas radikalt förenklade. Fokus på max 4 kärnfrågor:
+  1. Upplevelse av året/samarbetet.
+  2. Kandidatur/ambition.
+  3. Långsiktighet (hur många år till).
+  4. Namnförslag på nya kandidater.
+- **Intervjuloggar:** Ska vara personcentrerade med tydliga rubriker för varje individ. Detta underlättar löpande anteckningar under samtal.
+
+### Process
 1.  **Preparation:** Review the current board status in `valberedning_2026.md`.
 2.  **Questionnaire:** Use the general questions in `frågebatteri_valberedning.md` as a base.
 3.  **Interviews:** Conduct interviews and document results in the cycle-specific log (e.g., `intervjuer_valberedning_2026.md`).
