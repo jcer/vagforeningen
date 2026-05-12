@@ -1,3 +1,9 @@
+---
+title: "Motion: Uppdatering av andelstal inom ga:5"
+author: "Nösunds Vägförening"
+date: "Inför årsmötet 2027"
+---
+
 # Arbetsdokument: Motion om uppdatering av andelstal (Nösunds Vägförening)
 
 ## 1. Bakgrund och syfte
