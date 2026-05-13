@@ -1,6 +1,6 @@
 ---
 title: "Motion: Uppdatering av andelstal inom ga:5"
-author: "Nösunds Vägförening"
+author: "🧠"
 date: "Inför årsmötet 2027"
 ---
 
@@ -21,7 +21,7 @@ date: "Inför årsmötet 2027"
 *   **Status quo är sämre:** Att behålla dagens andelstal innebär att vi medvetet accepterar en känd orättvisa. Fastighetsregistret är den mest objektiva källa vi har tillgång till.
 *   **Solidaritet:** Alla betalar för vägens tillgänglighet och underhåll. Att ha kapacitet för extra boende på tomten bör återspeglas i andelstalet.
 
-## 4. Motargument och bemötande (Moteld)
+## 4. Motargument och bemötande
 
 ### "Registret stämmer inte"
 *   **Svar:** Föreningen kan inte agera detektiv. Vi utgår från officiella myndighetsdata. Om registret är fel är det fastighetsägarens ansvar att begära rättelse hos kommunen. När registret ändras, justeras andelstalet automatiskt därefter.
@@ -33,7 +33,7 @@ date: "Inför årsmötet 2027"
 *   **Svar:** Det är en giltig poäng, men andelstal bygger per definition på schabloner enligt "skälighetsprincipen". Att basera schablonen på registrerade bostadshus är den mest vedertagna metoden i Sverige. (Se fördjupning i sektion 5).
 
 ## 5. Fördjupning: Varför fullt andelstal (1,0) bör gälla även för gästhus
-En vanlig invändning är att gästhus och komplementbostäder "används sällan" och därför bör ha ett lägre andelstal. Här följer argumenten som bemöter den ståndpunkten (moteld mot reducerade andelstal):
+En vanlig invändning är att gästhus och komplementbostäder "används sällan" och därför bör ha ett lägre andelstal. Här följer argumenten som bemöter den ståndpunkten:
 
 ### Faktisk kapacitet vs. tillfälligt nyttjande
 Anläggningslagen och praxis från Lantmäteriet bygger på fastighetens *ändamål* och *kapacitet*. Ett hus klassat som bostad har en inneboende potential att användas fullt ut. Att en nuvarande ägare väljer att använda det sällan är ett personligt val som kan ändras imorgon (genom uthyrning, generationsskifte eller försäljning). Föreningen kan inte ha andelstal som hoppar upp och ner beroende på vem som bor i huset för tillfället.

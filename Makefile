@@ -10,7 +10,7 @@ all: pdf
 pdf: $(PDF)
 
 $(PDF): $(SRC)
-	md2pdf-browser --profile privat $<
+	md2pdf-browser --profile waye $<
 
 clean:
 	rm -f $(PDF)
