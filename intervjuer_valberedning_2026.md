@@ -11,10 +11,10 @@
 ---
 
 ### Göran Karlsson (Ledamot, Valbar)
-* **Året:**
-* **Kandidatur:**
+* **Året:** (Bra timing, tackar nej till omval)
+* **Kandidatur:** (Står inte till förfogande för omval)
 * **Långsiktighet:**
-* **Namnförslag:**
+* **Namnförslag:** Stefan Rydeling som möjlig ny ledamot
 
 ---
 
@@ -75,4 +75,5 @@
 ---
 
 ## Nya kandidater & Övriga anteckningar
-*
+* Stefan Rydeling - potentiell kandidat till ledamot
+* Göran Karlsson - avklarad
