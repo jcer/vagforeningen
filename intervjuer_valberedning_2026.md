@@ -19,24 +19,24 @@
 ---
 
 ### Bernt Wijkmark (Kassör, Sitter kvar till 2027)
-* **Året:**
-* **Kandidatur:**
+* **Året:** (Positiv till läget)
+* **Kandidatur:** (Kan tänka sig en ny tvåårsperiod, men tycker också att det kan räcka efter nuvarande mandat)
 * **Långsiktighet:**
 * **Namnförslag:**
 
 ---
 
 ### Stefan Berglin (Ledamot, Sitter kvar till 2027)
-* **Året:**
-* **Kandidatur:**
+* **Året:** (Positiv)
+* **Kandidatur:** (Positiv till att fortsätta till 2027)
 * **Långsiktighet:**
 * **Namnförslag:**
 
 ---
 
 ### Ann Åhlberg Wijkmark (Ledamot, Sitter kvar till 2027)
-* **Året:**
-* **Kandidatur:**
+* **Året:** (Positiv)
+* **Kandidatur:** (Positiv till att fortsätta till 2027, vill ta nästa ställning senare)
 * **Långsiktighet:**
 * **Namnförslag:**
 
@@ -77,3 +77,5 @@
 ## Nya kandidater & Övriga anteckningar
 * Stefan Rydeling - potentiell kandidat till ledamot
 * Göran Karlsson - avklarad
+* Jan tar John Areblad, Michael Gibbons och Hans Backman.
+* Johan tar Egon Gustavsson och Gösta Sandegren.
