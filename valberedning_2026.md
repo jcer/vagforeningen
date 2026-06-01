@@ -6,9 +6,9 @@
 | :--- | :--- | :--- | :--- |
 | **Ordförande** | Kjell Niklasson | 2026 | **Valbar** (Vill fortsätta, men kan lämna över till Göran) |
 | **Ledamot** | Göran Karlsson | 2026 | **Avklarad** (står inte till förfogande för omval) |
-| **Ledamot** | Bernt Wijkmark | 2027 | Sitter kvar |
-| **Ledamot** | Stefan Berglin | 2027 | Sitter kvar |
-| **Ledamot** | Ann Å. Wijkmark | 2027 | Sitter kvar |
+| **Ledamot** | Bernt Wijkmark | 2027 | Sitter kvar, positiv till 2027 men osäker efter nuvarande mandat |
+| **Ledamot** | Stefan Berglin | 2027 | Sitter kvar, positiv till att fortsätta till 2027 |
+| **Ledamot** | Ann Å. Wijkmark | 2027 | Sitter kvar, positiv till att fortsätta till 2027 men vill ta nästa ställning senare |
 | **Ersättare** | Michael Gibbons | 2026 | **Valbar** (1 år) |
 | **Ersättare** | Egon Gustavsson | 2026 | **Valbar** (1 år) |
 | **Revisor** | Hans Backman | 2026 | **Valbar** (1 år) |
@@ -42,6 +42,6 @@
 ## Anteckningar & Logg
 - **2026-05-12:** Kontakt med Kjell. Han är positiv till fortsättning men öppen för att lämna över ordföranderollen till Göran Karlsson.
 - **2026-05-18:** Kontakt med Göran. Han står inte till förfogande för omval. Tipset är Stefan Rydeling som möjlig ny ledamot.
-- **2026-05-20:** Susanne har kontaktat Bernt, Stefan och Ann. Alla var positiva till att fortsätta till 2027. Bernt kunde tänka sig en ny tvåårsperiod men tyckte sedan att det räckte. Ann vill avvakta beslut om nästa steg.
+- **2026-05-20:** Susanne har kontaktat Bernt, Stefan och Ann. Alla var positiva till att fortsätta till 2027. Bernt kunde tänka sig en ny tvåårsperiod men tyckte sedan att det räckte, så hans långsiktighet efter nuvarande mandat är osäker. Stefan är positiv till att fortsätta till 2027 utan att något längre åtagande är dokumenterat. Ann vill avvakta beslut om nästa steg efter nuvarande period.
 - **2026-05-20:** Jan tog på sig att kontakta John Areblad, Michael Gibbons och Hans Backman.
 - **2026-05-22:** Johan tar Egon Gustavsson och Gösta Sandegren.

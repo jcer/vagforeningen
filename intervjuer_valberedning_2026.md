@@ -21,7 +21,7 @@
 ### Bernt Wijkmark (Kassör, Sitter kvar till 2027)
 * **Året:** (Positiv till läget)
 * **Kandidatur:** (Kan tänka sig en ny tvåårsperiod, men tycker också att det kan räcka efter nuvarande mandat)
-* **Långsiktighet:**
+* **Långsiktighet:** Osäker efter nuvarande mandat; kan tänka sig ytterligare en period men har också signalerat att det kanske räcker efter 2027.
 * **Namnförslag:**
 
 ---
@@ -29,7 +29,7 @@
 ### Stefan Berglin (Ledamot, Sitter kvar till 2027)
 * **Året:** (Positiv)
 * **Kandidatur:** (Positiv till att fortsätta till 2027)
-* **Långsiktighet:**
+* **Långsiktighet:** Dokumenterat positiv till 2027, men ingen tydlig längre plan efter det.
 * **Namnförslag:**
 
 ---
@@ -37,7 +37,7 @@
 ### Ann Åhlberg Wijkmark (Ledamot, Sitter kvar till 2027)
 * **Året:** (Positiv)
 * **Kandidatur:** (Positiv till att fortsätta till 2027, vill ta nästa ställning senare)
-* **Långsiktighet:**
+* **Långsiktighet:** Vill avvakta beslut om nästa steg efter nuvarande period; ingen längre åtagandevilja dokumenterad.
 * **Namnförslag:**
 
 ---
