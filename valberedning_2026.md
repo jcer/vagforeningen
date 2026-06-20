@@ -21,6 +21,7 @@
 - [x] Stefan Berglin (Ledamot) - Susanne har pratat med honom. Positiv till att fortsätta till 2027.
 - [x] Göran Karlsson (Ledamot) - Avklarad, står inte till förfogande för omval. Tipsade om Stefan Rydeling som möjlig ersättare.
 - [x] Ann Åhlberg Wijkmark (Ledamot) - Susanne har pratat med henne. Positiv till att fortsätta till 2027 och tar ställning till nästa steg senare.
+- [x] Siv Inger - Tillfrågad och har accepterat.
 - [ ] Michael Gibbons (Ersättare) - Jan tar kontakt.
 - [ ] Egon Gustavsson (Ersättare) - Johan tar kontakt.
 
@@ -45,3 +46,4 @@
 - **2026-05-20:** Susanne har kontaktat Bernt, Stefan och Ann. Alla var positiva till att fortsätta till 2027. Bernt kunde tänka sig en ny tvåårsperiod men tyckte sedan att det räckte, så hans långsiktighet efter nuvarande mandat är osäker. Stefan är positiv till att fortsätta till 2027 utan att något längre åtagande är dokumenterat. Ann vill avvakta beslut om nästa steg efter nuvarande period.
 - **2026-05-20:** Jan tog på sig att kontakta John Areblad, Michael Gibbons och Hans Backman.
 - **2026-05-22:** Johan tar Egon Gustavsson och Gösta Sandegren.
+- **2026-06-20:** Nya kandidatspår diskuterade. Förstahandsval: Anna-Karin Holst. Reserv: Stefan Rydeling, som Susanne kontaktar om Anna-Karin tackar nej. Övriga noterade namn: Sofia Holst, Caroline Backman och Håkan Enerbäck (kan tänka sig nästa år).
