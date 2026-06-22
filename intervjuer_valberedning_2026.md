@@ -80,7 +80,7 @@
 * Jan tar John Areblad, Michael Gibbons och Hans Backman.
 * Johan tar Egon Gustavsson och Gösta Sandegren.
 * **2026-06-20 (möte):**
-  * **Anna-Karin Halst** — förstahandsval. Johan ringer.
+  * **Anna-Karin Holst** — förstahandsval. Johan ringer.
   * **Stefan Rydeling** — andrahandsval. Susanne ringer om Anna-Karin tackar nej.
   * **Håkan Enerbäck** — Jans förslag inför nästa år (inte 2026).
   * **Siv Inger** — redan tillfrågad, tackat ja.
