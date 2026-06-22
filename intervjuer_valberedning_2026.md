@@ -79,4 +79,10 @@
 * Göran Karlsson - avklarad
 * Jan tar John Areblad, Michael Gibbons och Hans Backman.
 * Johan tar Egon Gustavsson och Gösta Sandegren.
-* 2026-06-20: Mötanteckning med Susanne Gustafsson, Jan Smittbauer-Krone och Johan Eriksson. Förstahandsval för ny styrelsekandidat är Anna-Karin Holst. Om hon tackar nej ska Susanne kontakta Stefan Rydeling. Övriga möjliga kandidater är Sofia Holst och Caroline Backman. Jan har pratat med Håkan Enerbäck, som kan tänka sig att vara med nästa år.
+* **2026-06-20 (möte):**
+  * **Anna-Karin Halst** — förstahandsval. Johan ringer.
+  * **Stefan Rydeling** — andrahandsval. Susanne ringer om Anna-Karin tackar nej.
+  * **Håkan Enerbäck** — Jans förslag inför nästa år (inte 2026).
+  * **Siv Inger** — redan tillfrågad, tackat ja.
+  * **Sofia Holst, Caroline Backman** — diskuterade, ej beslutade.
+  * **Lena Ranft** — avförd.
