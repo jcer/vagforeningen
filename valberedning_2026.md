@@ -48,3 +48,4 @@
 - **2026-05-22:** Johan tar Egon Gustavsson och Gösta Sandegren.
 - **2026-06-20:** Möte med Susanne, Jan och Johan. Förstahandsval för ny ledamot: **Anna-Karin Holst** — Johan ringer henne. Andrahandsval: **Stefan Rydeling** — om Anna-Karin tackar nej ringer Susanne Stefan. Jan föreslog **Håkan Enerbäck** som möjlig kandidat till nästa år. Siv Inger är redan tillfrågad och vill. Övriga diskuterade men ej beslutade: Sofia Holst, Caroline Backman. **Lena Ranft** ansågs avförd.
 - **2026-06-22:** Alla bekräftade utom Anna-Karin Holst (avvaktar svar). Michael Gibbons, Egon Gustavsson, Hans Backman, John Areblad och Gösta Sandegren bekräftade.
+- **2026-06-22:** Johan ringde Anna-Karin Holst. Hon vill ha ett par dagar på sig. Återkommer inom kort.
