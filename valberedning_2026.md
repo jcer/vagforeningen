@@ -22,13 +22,13 @@
 - [x] Göran Karlsson (Ledamot) - Avklarad, står inte till förfogande för omval. Tipsade om Stefan Rydeling som möjlig ersättare.
 - [x] Ann Åhlberg Wijkmark (Ledamot) - Susanne har pratat med henne. Positiv till att fortsätta till 2027 och tar ställning till nästa steg senare.
 - [x] Siv Inger - Tillfrågad och har accepterat.
-- [ ] Michael Gibbons (Ersättare) - Jan tar kontakt.
-- [ ] Egon Gustavsson (Ersättare) - Johan tar kontakt.
+- [x] Michael Gibbons (Ersättare) - Bekräftad.
+- [x] Egon Gustavsson (Ersättare) - Bekräftad.
 
 ## Revisorer att kontakta
-- [ ] Hans Backman - Jan tar kontakt.
-- [ ] John Areblad - Jan tar kontakt.
-- [ ] Gösta Sandegren (Ersättare) - Johan tar kontakt.
+- [x] Hans Backman - Bekräftad.
+- [x] John Areblad - Bekräftad.
+- [x] Gösta Sandegren (Ersättare) - Bekräftad.
 
 ## Valberedning
 - Susanne Gustafsson
@@ -47,3 +47,4 @@
 - **2026-05-20:** Jan tog på sig att kontakta John Areblad, Michael Gibbons och Hans Backman.
 - **2026-05-22:** Johan tar Egon Gustavsson och Gösta Sandegren.
 - **2026-06-20:** Möte med Susanne, Jan och Johan. Förstahandsval för ny ledamot: **Anna-Karin Holst** — Johan ringer henne. Andrahandsval: **Stefan Rydeling** — om Anna-Karin tackar nej ringer Susanne Stefan. Jan föreslog **Håkan Enerbäck** som möjlig kandidat till nästa år. Siv Inger är redan tillfrågad och vill. Övriga diskuterade men ej beslutade: Sofia Holst, Caroline Backman. **Lena Ranft** ansågs avförd.
+- **2026-06-22:** Alla bekräftade utom Anna-Karin Holst (avvaktar svar). Michael Gibbons, Egon Gustavsson, Hans Backman, John Areblad och Gösta Sandegren bekräftade.
