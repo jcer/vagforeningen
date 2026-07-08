@@ -18,7 +18,7 @@
 
 ---
 
-### Bernt Wijkmark (Kassör, Sitter kvar till 2027)
+### Berndt Wijkmark (Kassör, Sitter kvar till 2027)
 * **Året:** (Positiv till läget)
 * **Kandidatur:** (Kan tänka sig en ny tvåårsperiod, men tycker också att det kan räcka efter nuvarande mandat)
 * **Långsiktighet:** Osäker efter nuvarande mandat; kan tänka sig ytterligare en period men har också signalerat att det kanske räcker efter 2027.
