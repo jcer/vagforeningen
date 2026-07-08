@@ -11,7 +11,8 @@
 | **Ledamot** | Stefan Berglin | 2027 | Sitter kvar, positiv till att fortsätta till 2027 |
 | **Ledamot** | Ann Å. Wijkmark | 2027 | Sitter kvar, positiv till att fortsätta till 2027 men vill ta nästa ställning senare |
 | **Ersättare** | Michael Gibbons | 2026 | **Valbar** (1 år) |
-| **Ersättare** | Egon Gustavsson | 2026 | **Valbar** (1 år) |
+| **Ersättare** | Egon Gustavsson | 2026 | **Avklarad** (tackat nej, står inte till förfogande för omval) |
+| **Ersättare** | Siv-Inger Gustafsson | 2026 | **Valbar** (Ny, tackat ja, ersätter Egon Gustavsson) |
 | **Revisor** | Hans Backman | 2026 | **Valbar** (1 år) |
 | **Revisor** | John Areblad | 2026 | **Valbar** (1 år) |
 | **Revisorsers.** | Gösta Sandegren | 2026 | **Valbar** (1 år) |
@@ -23,9 +24,9 @@
 - [x] Göran Karlsson (Ledamot) - Avklarad, står inte till förfogande för omval. Tipsade om Stefan Rydeling som möjlig ersättare.
 - [x] Anna-Karin Holst (Ny ledamot) - Tackat ja.
 - [x] Ann Åhlberg Wijkmark (Ledamot) - Susanne har pratat med henne. Positiv till att fortsätta till 2027 och tar ställning till nästa steg senare.
-- [x] Siv-Inger Gustafsson - Tillfrågad och har accepterat.
 - [x] Michael Gibbons (Ersättare) - Bekräftad.
-- [x] Egon Gustavsson (Ersättare) - Bekräftad.
+- [x] Egon Gustavsson (Ersättare) - Tackat nej (samtal 1 juni).
+- [x] Siv-Inger Gustafsson (Ny ersättare) - Ersätter Egon Gustavsson. Tillfrågad och har accepterat.
 
 ## Revisorer att kontakta
 - [x] Hans Backman - Bekräftad.
@@ -49,6 +50,8 @@
 - **2026-05-20:** Jan tog på sig att kontakta John Areblad, Michael Gibbons och Hans Backman.
 - **2026-05-22:** Johan tar Egon Gustavsson och Gösta Sandegren.
 - **2026-06-20:** Möte med Susanne, Jan och Johan. Förstahandsval för ny ledamot: **Anna-Karin Holst** — Johan ringer henne. Andrahandsval: **Stefan Rydeling** — om Anna-Karin tackar nej ringer Susanne Stefan. Jan föreslog **Håkan Enerbäck** som möjlig kandidat till nästa år. Siv-Inger Gustafsson är redan tillfrågad och vill. Övriga diskuterade men ej beslutade: Sofia Holst, Caroline Backman. **Lena Ranft** ansågs avförd.
-- **2026-06-22:** Alla bekräftade utom Anna-Karin Holst (avvaktar svar). Michael Gibbons, Egon Gustavsson, Hans Backman, John Areblad och Gösta Sandegren bekräftade.
+- **2026-06-01:** Johan pratade med Egon Gustavsson. Han tackar nej till fortsatt uppdrag som ersättare.
+- **2026-06-22:** Alla bekräftade utom Anna-Karin Holst (avvaktar svar). Michael Gibbons, Hans Backman, John Areblad och Gösta Sandegren bekräftade.
 - **2026-06-22:** Johan ringde Anna-Karin Holst. Hon vill ha ett par dagar på sig. Återkommer inom kort.
 - **2026-07-08:** Anna-Karin Holst har tackat ja som ny ledamot. Samtliga poster till årsstämman 2026 är därmed klara.
+- **2026-07-08:** Rättelse: den tidigare batch-uppdateringen 2026-06-22 markerade av misstag Egon Gustavsson som bekräftad. Korrekt uppgift (samtal 1 juni) är att han tackat nej. Siv-Inger Gustafsson går in som ny ersättare i hans ställe.

@@ -51,7 +51,7 @@
 ---
 
 ### Egon Gustavsson (Ersättare, Valbar)
-* **Året/Kandidatur:**
+* **Året/Kandidatur:** Samtal 1 juni — tackar nej till fortsatt uppdrag. Ersätts av Siv-Inger Gustafsson.
 * **Långsiktighet:**
 
 ---
@@ -83,6 +83,6 @@
   * **Anna-Karin Holst** — förstahandsval. Johan ringer.
   * **Stefan Rydeling** — andrahandsval. Susanne ringer om Anna-Karin tackar nej.
   * **Håkan Enerbäck** — Jans förslag inför nästa år (inte 2026).
-  * **Siv-Inger Gustafsson** — redan tillfrågad, tackat ja.
+  * **Siv-Inger Gustafsson** — redan tillfrågad, tackat ja. Ny ersättare, tar Egon Gustavssons plats.
   * **Sofia Holst, Caroline Backman** — diskuterade, ej beslutade.
   * **Lena Ranft** — avförd.
