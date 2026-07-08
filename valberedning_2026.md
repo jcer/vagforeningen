@@ -9,7 +9,7 @@
 | **Ledamot** | Anna-Karin Holst | 2026 | **Valbar** (Ny, tackat ja) |
 | **Ledamot** | Berndt Wijkmark | 2027 | Sitter kvar, positiv till 2027 men osäker efter nuvarande mandat |
 | **Ledamot** | Stefan Berglin | 2027 | Sitter kvar, positiv till att fortsätta till 2027 |
-| **Ledamot** | Ann Å. Wijkmark | 2027 | Sitter kvar, positiv till att fortsätta till 2027 men vill ta nästa ställning senare |
+| **Ledamot** | Ann Wijkmark | 2027 | Sitter kvar, positiv till att fortsätta till 2027 men vill ta nästa ställning senare |
 | **Ersättare** | Michael Gibbons | 2026 | **Valbar** (1 år) |
 | **Ersättare** | Egon Gustavsson | 2026 | **Avklarad** (tackat nej, står inte till förfogande för omval) |
 | **Ersättare** | Siv-Inger Gustafsson | 2026 | **Valbar** (Ny, tackat ja, ersätter Egon Gustavsson) |
@@ -23,7 +23,7 @@
 - [x] Stefan Berglin (Ledamot) - Susanne har pratat med honom. Positiv till att fortsätta till 2027.
 - [x] Göran Karlsson (Ledamot) - Avklarad, står inte till förfogande för omval. Tipsade om Stefan Rydeling som möjlig ersättare.
 - [x] Anna-Karin Holst (Ny ledamot) - Tackat ja.
-- [x] Ann Åhlberg Wijkmark (Ledamot) - Susanne har pratat med henne. Positiv till att fortsätta till 2027 och tar ställning till nästa steg senare.
+- [x] Ann Wijkmark (Ledamot) - Susanne har pratat med henne. Positiv till att fortsätta till 2027 och tar ställning till nästa steg senare.
 - [x] Michael Gibbons (Ersättare) - Bekräftad.
 - [x] Egon Gustavsson (Ersättare) - Tackat nej (samtal 1 juni).
 - [x] Siv-Inger Gustafsson (Ny ersättare) - Ersätter Egon Gustavsson. Tillfrågad och har accepterat.
@@ -40,7 +40,7 @@
 
 ## Kontaktfördelning
 - Johan: Kjell Niklasson, Göran Karlsson, Egon Gustavsson och Gösta Sandegren.
-- Susanne: Berndt Wijkmark, Stefan Berglin och Ann Åhlberg Wijkmark.
+- Susanne: Berndt Wijkmark, Stefan Berglin och Ann Wijkmark.
 - Jan: John Areblad, Michael Gibbons och Hans Backman.
 
 ## Anteckningar & Logg

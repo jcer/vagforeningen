@@ -34,7 +34,7 @@
 
 ---
 
-### Ann Åhlberg Wijkmark (Ledamot, Sitter kvar till 2027)
+### Ann Wijkmark (Ledamot, Sitter kvar till 2027)
 * **Året:** (Positiv)
 * **Kandidatur:** (Positiv till att fortsätta till 2027, vill ta nästa ställning senare)
 * **Långsiktighet:** Vill avvakta beslut om nästa steg efter nuvarande period; ingen längre åtagandevilja dokumenterad.
