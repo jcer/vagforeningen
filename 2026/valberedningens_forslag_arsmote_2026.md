@@ -13,13 +13,16 @@ Valberedningen har under våren och sommaren 2026 varit i kontakt med samtliga s
 
 | Roll | Namn | Förslag | Mandat t.o.m. |
 | :--- | :--- | :--- | :--- |
-| Ordförande (1 år) | Kjell Niklasson | Omval | 2027 |
 | Ledamot (2 år) | Anna-Karin Holst | Nyval | 2028 |
 | Ledamot (2 år) | Berndt Wijkmark | Kvarstår | 2027 |
 | Ledamot (2 år) | Stefan Berglin | Kvarstår | 2027 |
 | Ledamot (2 år) | Ann Wijkmark | Kvarstår | 2027 |
+| Ledamot (2 år) | Kjell Niklasson | Nyval | 2028 |
+| Ordförande (1 år) | Kjell Niklasson | Omval | 2027 |
 
 Anna-Karin Holst föreslås som ny ledamot efter Göran Karlsson, som avböjt omval.
+
+Kjell Niklassons ledamotsmandat har löpt ut och föreslås förnyas separat, till 2028. Enligt stadgarnas §6 utser stämman därefter ordförande bland styrelsens ledamöter — ordförande är alltså inte en sjätte, fristående post utan en av de fem ledamöterna ovan, och Kjell Niklasson föreslås fortsätta i den rollen.
 
 ## Ersättare
 

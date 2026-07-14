@@ -5,6 +5,7 @@
 | Roll | Namn | Mandat t.o.m. | Status 2026 |
 | :--- | :--- | :--- | :--- |
 | **Ordförande** | Kjell Niklasson | 2026 | **Valbar** (Vill fortsätta, men kan lämna över till Göran) |
+| **Ledamot** | Kjell Niklasson | 2026 | **Valbar** (Utöver ordföranderollen har Kjell även en egen ledamotspost; mandatet löper ut 2026 och föreslås till 2028) |
 | **Ledamot** | Göran Karlsson | 2026 | **Avklarad** (står inte till förfogande för omval) |
 | **Ledamot** | Anna-Karin Holst | 2026 | **Valbar** (Ny, tackat ja) |
 | **Ledamot** | Berndt Wijkmark | 2027 | Sitter kvar, positiv till 2027 men osäker efter nuvarande mandat |
@@ -55,3 +56,5 @@
 - **2026-06-22:** Johan ringde Anna-Karin Holst. Hon vill ha ett par dagar på sig. Återkommer inom kort.
 - **2026-07-08:** Anna-Karin Holst har tackat ja som ny ledamot. Samtliga poster till årsstämman 2026 är därmed klara.
 - **2026-07-08:** Rättelse: den tidigare batch-uppdateringen 2026-06-22 markerade av misstag Egon Gustavsson som bekräftad. Korrekt uppgift (samtal 1 juni) är att han tackat nej. Siv-Inger Gustafsson går in som ny ersättare i hans ställe.
+- **2026-07-09:** Kjell påpekade (handskriven notering på utskrivet förslag) att han utöver ordföranderollen även innehar en separat ledamotspost, vars mandat löpt ut. Denna läggs nu till som egen rad: Ledamot, Kjell Niklasson, mandat t.o.m. 2028. Detta förklarar sannolikt även den till synes dubblerade raden för Kjell i 2025 års förslag (se `../2025/valberedningens_forslag_arsmote_2025.md`).
+- **2026-07-12:** Årsmötet genomfört. Samtliga punkter i valberedningens förslag antogs utan ändring. Valberedningen (Johan, Susanne, Jan) omvaldes oförändrad för nästa mandatperiod, se `../2027/valberedning_2027.md`. Cykeln 2026 är därmed avslutad.
